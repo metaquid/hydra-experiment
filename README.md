@@ -10,7 +10,7 @@ youtube: https://youtu.be/D3cwWELK_ws
 
 images used from the project: the Ten Thousand Bulls Metaquid project
 
-site: http://metaquid.com/NFT
+site: https://metaquid.com/NFT
 
 ---
 
