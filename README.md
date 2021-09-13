@@ -1,17 +1,23 @@
 # hydra-experiment
 experiment using Hydra
 
+
 for the project: Metaquid the metaphorical bull of AI
 
 youtube: https://youtu.be/D3cwWELK_ws
+
+
 
 images used from the project: the Ten Thousand Bulls Metaquid project
 
 site: metaquid.com/NFT
 
+
+
 for test, connect to:
 
 https://hydra.ojack.xyz
+
 
 
 try the code:
